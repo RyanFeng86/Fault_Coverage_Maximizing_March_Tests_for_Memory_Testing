@@ -1,0 +1,13 @@
+FP1\FP2,SAFs0,SAFs1,TFs0,TFs1,WDFs0,WDFs1,RDFs0,RDFs1,IRFs0,IRFs1,DRDFs0,DRDFs1
+SAFs0,~M,~C,~C,~M,~M,~M,~M,~M,~M,~C,D,~M
+SAFs1,~C,~M,~M,~C,~M,~M,~M,~M,~C,~M,~M,D
+TFs0,~C,~M,~M,~C,~M,L,~M,L,~C,~M,~M,D
+TFs1,~M,~C,~C,~M,L,~M,L,~M,~M,~C,D,~M
+WDFs0,~C,~M,~M,~C,~M,L,~M,L,~C,~M,~M,D
+WDFs1,~M,~C,~C,~M,L,~M,L,~M,~M,~C,D,~M
+RDFs0,D,D,D,D,D,D,D,D,D,D,D,D
+RDFs1,D,D,D,D,D,D,D,D,D,D,D,D
+IRFs0,D,D,D,D,D,D,D,D,D,D,D,D
+IRFs1,D,D,D,D,D,D,D,D,D,D,D,D
+DRDFs0,~C,~M,~M,~C,~M,L,~M,L,~C,~M,~M,D
+DRDFs1,~M,~C,~C,~M,L,~M,L,~M,~M,~C,D,~M

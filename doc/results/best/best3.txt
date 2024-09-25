@@ -1,0 +1,16 @@
+up w1, up w0, up r0
+down w1, up w0, up r0
+up w1, down w0, up r0
+down w1, down w0, up r0
+up w0, up w1, up r1
+down w0, up w1, up r1
+up w0, down w1, up r1
+down w0, down w1, up r1
+up w1, up w0, down r0
+down w1, up w0, down r0
+up w1, down w0, down r0
+down w1, down w0, down r0
+up w0, up w1, down r1
+down w0, up w1, down r1
+up w0, down w1, down r1
+down w0, down w1, down r1

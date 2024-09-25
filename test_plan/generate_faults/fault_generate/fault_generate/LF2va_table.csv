@@ -1,0 +1,13 @@
+FP1\FP2,CFinUP,CFinDOWN,CFidUP0,CFidUP1,CFidDOWN0,CFidDOWN1,CFst0_0,CFst1_0,CFst0_1,CFst1_1,CFds0r0_0,CFds1r1_0,CFds0r0_1,CFds1r1_1,CFds0w0_0,CFds0w1_0,CFds1w0_0,CFds1w1_0,CFds0w0_1,CFds0w1_1,CFds1w0_1,CFds1w1_1,CFtr0_0,CFtr1_0,CFtr0_1,CFtr1_1,CFwd0_0,CFwd1_0,CFwd0_1,CFwd1_1,CFrd0_0,CFrd1_0,CFrd0_1,CFrd1_1,CFdrd0_0,CFdrd1_0,CFdrd0_1,CFdrd1_1,CFir0_0,CFir1_0,CFir0_1,CFir1_1
+SAFs0,~C,~C,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~C,~C,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,D,D,~M,~M,~M,~M,~C,~C
+SAFs1,~C,~C,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,~C,~C,~M,~M,~M,~M,~M,~M,~M,~M,~M,~M,D,D,~C,~C,~M,~M
+TFs0,~C,~C,L,~M,L,~M,~M,~M,L,L,~M,~M,L,L,~M,~M,~M,~M,L,L,L,L,~M,~M,~C,~C,~M,~M,L,L,~M,~M,L,L,~M,~M,D,D,~C,~C,~M,~M
+TFs1,~C,~C,~M,L,~M,L,L,L,~M,~M,L,L,~M,~M,L,L,L,L,~M,~M,~M,~M,~C,~C,~M,~M,L,L,~M,~M,L,L,~M,~M,D,D,~M,~M,~M,~M,~C,~C
+WDFs0,~C,~C,L,~M,L,~M,~M,~M,L,L,~M,~M,L,L,~M,~M,~M,~M,L,L,L,L,~M,~M,~C,~C,~M,~M,L,L,~M,~M,L,L,~M,~M,D,D,~C,~C,~M,~M
+WDFs1,~C,~C,~M,L,~M,L,L,L,~M,~M,L,L,~M,~M,L,L,L,L,~M,~M,~M,~M,~C,~C,~M,~M,L,L,~M,~M,L,L,~M,~M,D,D,~M,~M,~M,~M,~C,~C
+RDFs0,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D
+RDFs1,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D
+IRFs0,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D
+IRFs1,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D
+DRDFs0,~C,~C,L,~M,L,~M,~M,~M,L,L,~M,~M,L,L,~M,~M,~M,~M,L,L,L,L,~M,~M,~C,~C,~M,~M,L,L,~M,~M,L,L,~M,~M,D,D,~C,~C,~M,~M
+DRDFs1,~C,~C,~M,L,~M,L,L,L,~M,~M,L,L,~M,~M,L,L,L,L,~M,~M,~M,~M,~C,~C,~M,~M,L,L,~M,~M,L,L,~M,~M,D,D,~M,~M,~M,~M,~C,~C
